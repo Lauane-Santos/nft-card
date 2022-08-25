@@ -15,12 +15,12 @@ body{
     left: 35%;
     border-radius: 5%;
     text-align:left;
-    box-shadow:10px 5px 5px #fff;
+    box-shadow:10px 5px 5px #0E1629;
 }
-img{
+.img1{
  width: 350px;
  height: 350px;
- margin: 18px;
+ margin: 25px;
  border-radius: 5%;
 }
 .t1{
@@ -31,4 +31,36 @@ img{
     color: #4B607F;
     margin-left: 18px;
     margin-right: 18px;
+}
+.icon1{
+    margin-left: 18px;
+    height: 25px;
+}
+.icon2{
+    margin-left: 150px;
+    height: 25px;
+}
+.verde{
+    color: #3EB2BF;
+}
+.cinza{
+    color: #7E95B5;
+}
+.linha{
+    width: 400px;
+    height: 2px;
+    margin-top:20px;
+    background-color: #1F3149;
+}
+.foto{
+    width: 35px;
+    margin-left: 18px;
+    margin-top: 18px;
+}
+.azul{
+    color: #4B607F;
+}
+.credito{
+    margin-left: 65px;
+    margin-top: -30px;
 }
