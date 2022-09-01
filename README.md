@@ -13,4 +13,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 📌LAYOUT
 =================
 Você pode visualizar o layout do projeto através desse
-<a href = "mailto:contato@seu-usuário-aqui">link</a>.
+<a href = "[mailto:contato@seu-usuário-aqui](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)">link</a>.
