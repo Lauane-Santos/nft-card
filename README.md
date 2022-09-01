@@ -22,4 +22,4 @@ Calcule a gorjeta correta e o custo total da conta por pessoa
 
 📌LAYOUT
 =================
-Você pode visualizar o layout do projeto através desse link.
+Você pode visualizar o layout do projeto através desse <a href="[https://pt-br.reactjs.org](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)/"> link </a>.
