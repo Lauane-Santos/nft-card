@@ -10,17 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    * JavaScript
 <!--te-->
 
-💻PROJETO
-=================
-Uma aplicação para calcular a gorjeta e dividir a conta. Projeto simples, com bastante uso de CSS, HTML e JS.
-
-Seus usuários devem ser capazes de:
-
-Visualize o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo
-Veja os estados de foco para todos os elementos interativos na página
-Calcule a gorjeta correta e o custo total da conta por pessoa
-
 📌LAYOUT
 =================
-Você pode visualizar o layout do projeto através desse link.
-<a href = "mailto:contato@seu-usuário-aqui">link</a>
+Você pode visualizar o layout do projeto através desse
+<a href = "mailto:contato@seu-usuário-aqui">link</a>.
