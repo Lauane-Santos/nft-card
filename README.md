@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
    * JavaScript
 <!--te-->
 
-📺PROJETO
+💻PROJETO
 =================
 Uma aplicação para calcular a gorjeta e dividir a conta. Projeto simples, com bastante uso de CSS, HTML e JS.
 
